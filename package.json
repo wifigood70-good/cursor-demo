@@ -1,0 +1,21 @@
+{
+  "name": "cursor-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test src/email.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wifigood70-good/cursor-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/wifigood70-good/cursor-demo/issues"
+  },
+  "homepage": "https://github.com/wifigood70-good/cursor-demo#readme"
+}
